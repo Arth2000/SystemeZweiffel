@@ -239,11 +239,29 @@
     Le répondant a donc 15+ points avec une courte, une belle couleur et (3) 4+ atouts
 
 
+** Séquences fittées sur 1m - 1M
+
+  Les doubles sauts sont splinters.
+  3NT montre une main régulière 18-19.
+  4m montre une main 5m 4M 18+.
+  4M montre une main faible et distribuée.
+
+  Exemple:
+
+  1C-1H
+    3S Splinter
+    3N Fitté avec une main régulière, 18-19
+    4C 5+ !c 4+ !h, 18+
+    4D Splinter
+    4H Faible, très distribué (À priori au moins 6-4)
+
+
 ** Enchères d'esssais par les longues
 
     Après les séquences 1!h!s - 2!h!s ou 1X - 1!h!s - 2!h!s, on fait les enchères d'essais dans les longues.
     Une nouvelle couleur montre 4 cartes avec des honneurs, et demande au partenaire de valoriser ses honneurs dans cette couleur.
     2NT est enchère d'essais généralisée.
+
 
 ** Fit Mineur inversé
 
@@ -724,6 +742,25 @@
       4CD 6m-5!h
       4HS 6m-5!s, mineur par palier
     2N Relais fort, espoir de manche en face d'un faible à carreaux
+    2H Forcing
+      2S Main FM avec du pique
+      3C Main FM avec des trèfles
+      4D Main FM avec des carreaux
+      4H Main FM avec des coeurs. C'est forcing!
+      3N Main forte régulière
+      2N Max du faible à carreaux, pas fitté
+      3D Min du faible à carreaux
+      3H Faible à carreaux, fitté
+      3S Faible à carreaux, splinter
+      4C Faible à carreaux, splinter
+    2S Forcing. Réponses comme sur 2!c - 2!h
+    3C Forcing.
+      3D Faible à carreaux
+      3N Faible à carreaux, max
+      3HS Faible, max, arrêt pour essayer 3NT
+      4C Faible, fitté
+      4DHSN main FM, naturel
+      5C FM à trèfle, c'est forcing!
 
 
   2C-2D-2H
@@ -756,6 +793,21 @@
     3N Carreaux de ARD ou ARV10
     Autre FM
 
+
+  Après intervention:
+
+    - Contre: Punitif
+    - Toutes les enchères sont forcing un tour
+    - 2NT est relais fort. 3D est minimum, le cue demande l'arrêt,
+    - Le cue demande l'arrêt pour 3NT
+
+  2C-X
+    P Des trèfles !
+    XX Fort ou unicolore
+    2D Ambigu, peu être relativement fort
+    2HS Forcing
+    2N Relais fort
+
 ** 2!d - FI ou bicolore majeur
 
   Définition:
@@ -765,6 +817,16 @@
     - Gambling carreau
 
   Bicolore majeur plus long à !s:
+
+  2D
+    2S Naturel, 5 cartes avec 2 gros honneur ou un 5-5 correcte
+    2N 5-5 mineur
+    3X Unicolore avec deux gros honners. La rectification est chelemisante, le reste est naturel.
+    2H Relais
+      2S Bicolore majeure plus long à piques
+      2N Bicolore majeure plus long à coeurs
+      3X Unicolore FI
+      3N Gambling carreau
 
   2D-2H-2S
     2N Relais
@@ -797,8 +859,62 @@
           4C 4603
           4D 4630
 
-  Autre:
 
-  2D-2H
-    3X Unicolore FI
-    3N Gambling carreau
+  Après intervention en 2e:
+
+    - Contre est punitif au niveau 2, appel au niveau 3 et +
+    - Sur le passe du répondant, le contre est punitif au niveau de 2, bicolore majeur ou demande d'arrêt au niveau 3.
+    - 3X est transfert. Le transfert dans la couleur d'intervention est tricolore.
+    - 2NT est bicolore mineur
+    - Sur 2!d (X), Tout reste. 2!h devient naturel, et XX montre 4 belles cartes.
+
+  Après intervention en 4e:
+
+    - Passe, cue et enchères à saut montre le bicolore majeur jusque 3!s
+    - Contre demande l'arrêt
+
+** 2NT - Régulier 20-21
+
+  2NT
+    3C Stayman
+    3DH Transfert
+    3S Bicolore mineur chelemisant
+    4X Transfert chelemisant
+    3N Pour jouer
+    4N Quantitatif
+
+** 2M - Faible avec 6 cartes
+
+  Une nouvelle couleur est forcing un tour.
+  2NT est relais fort.
+  3NT est pour jouer.
+  Un saut est splinter.
+
+
+  2M-2N
+    3M Minimum
+    4M Max sans rien de particulier
+    3X Max avec l'as ou le roi de la couleur
+    3N ARDxxx
+    4X Max avec une courte dans la couleur
+
+** 3X - Faible avec (6) 7 cartes
+
+  Une nouvelle couleur au niveau de 3 est (semi)-naturelle,
+  pour essayer de trouver 3NT ou de jouer 4!h ou 4!s.
+  On répond ses arrêts (ou semblants d'arrêt), et 3NT avec les deux.
+  Une nouvelle couleur au niveau de 4 est contrôle.
+  4NT est blackwood.
+
+** 3NT - Gambling
+
+  3NT
+    4C Pass ou corrige
+    4D Demande de singleton
+      4HS Singleton ou chicane
+      4N Pas de courte
+      5CD Singleton ou chicane
+    4HS Pour jouer
+    5CD Pass ou corrige
+    6C Pass ou corrige
+    6D Pour jouer
