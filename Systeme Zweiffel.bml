@@ -1,0 +1,802 @@
+#+TITLE: Système Zweiffel 2019-2020
+#+AUTHOR: Massar Arthur
+#+DESCRIPTION: Majeure 5e - Système jeunes
+
+* Philosophie
+
+  - Majeure 5e
+  - 1NT 15-17
+  - 2!c Faible à !d ou FM
+  - 2!d FI ou bicolore majeure FM ou FI
+  - 2!h!s Faible
+  - Double-Deux
+  - Mineur inversée
+  - Contrôle d'une courte du partenaire montre l'as
+  - Sauter le blackwood pour un contrôle peut suggérer une chicane
+  - On ouvre de sa couleur la plus longue sauf avec une main faible et très distribuée (Eg 6-5 de 9-10 points).
+
+* Abréviations
+
+  - SO: Sign-Off, forcing passe
+  - FM/FI: Forcing-Manche/Fort Indéterminé
+  - NF: Non-Forcing
+  - TDC: Tendance de chelem
+  - CPP: Courte par palier
+
+* Conventions
+
+** 2NT modérateur
+
+    Après un bicolore cher ou à saut, 2NT montre une main faible et demande au
+    partenaire de dire 3!c NF sauf si maximum.
+
+    Après un bicolore cher, le rebid de sa couleur par le répondant est NF:
+
+    1C-1S-2H
+      2S NF
+      2N Modérateur
+      3X FM
+
+** Double-Deux
+
+    Après toute séquence 1X - 1Y - 1Z, 2!c, 2!d et 2NT sont artificiels. 2!c montre
+    une main faile à carreau ou des mains invites ou une main de manche avec 5 cartes
+    dans sa majeure. 2!d est un relais FM et demande à l'ouvreur de se décrire.
+    2NT montre des mains faibles avec des trèfles ou des mains chelemisantes avec plus de
+    trèfles que de cartes dans la première couleur.
+    Les enchères au niveau de 3 sont chelemisantes et naturelles, et un bicolore cher
+    au niveau de 2 est FM, à priori avec un 6-5
+
+*** L'ouvreur dit 1NT
+
+    1C-1H-1NT
+      2C Relais pour 2!d, invit ou mieux
+      2D Relais FM
+      2H Pour jouer
+      2S TDC 6!h 5!s
+      2N Faible avec des trèfles ou FM fitté trèfle avec exactement 4!h.
+          Force 3!c du partenaire
+      3C TDC fitté trèfles avec 5 coeurs
+      3D TDC 5-5. 3!h montre le fit, 3NT est négatif, le reste est contrôle fitté carreaux
+      3H TDC 6 mauvaises cartes. Avec 6 belles cartes on aurait dit 2!h sur 1!c
+      3S 4 piques 5 coeurs, pour laisser le choix entre 3SA, 4C et 4P
+      3N Pour les jouer
+      4H Pour les jouer
+      5T Pour les jouer
+      4N Invit
+      5N Invit pour 7
+
+
+    Après un 2!c - 2!d, les réponses du répondant sont naturelles:
+
+    1C-1H-1N-2C-2D
+      2H Invite avec 5!h. Une nouvelle couleur de la part de l'ouvreur montre une force et
+         est une enchère d'essais. 2NT est enchère d'essais généralisée fittée.
+         3NT et 4!h sont pour jouer.
+      2S Invite avec 6!h 5!s
+      2N Invite sans 5!h
+      3C Invite fitté trèfles
+      3D Invit 5-5
+      3H Invit 6 cartes
+      3N 5 coeurs, pour laisser le choix entre 3NT et 4!h
+
+    1D-1S-1N-2C-2D
+      P Pour les jouer
+      2H 5!s 4!h invite
+      2S Invite avec 5 cartes
+      2N Invite sans 5 cartes
+      3C 5-5 invite
+      3D Invite avec 4+ carreaux
+      3H 5-5 invite
+      3S Invite avec 6 cartes
+      3N 5!s, pour laisser le choix entre 3NT et 4!s
+
+
+    Après un 2!d, les réponses de l'ouvreur sont naturelles, avec l'enchère impossible
+    qui montre une main avec une courte qu'on ne peut pas annoncer autrement:
+
+    1C-1H-1N-2D
+      2H Trois cartes
+      2S 3145
+      2N 3244
+      3C 3235
+      3D 2245
+
+    1C-1S-1N-2D
+      2H Quatre cartes
+      2S Trois cartes
+      2N 2344
+      3C 2335
+      3D 2245
+      3H 1345
+
+
+    Après un 2NT, l'ouvreur doit dire 3!c. Le répondant passe avec une main faible
+    et reparle avec une main chelemisante. Les réponses sont naturelles et les
+    continuations aussi:
+
+    1D-1S-1N-2N-3C
+      P Pour les jouer
+      3D Quelque chose comme 4135. L'ouvreur dit 3NT si pas intéressé, 3!s si
+         trois beaux piques, 4!c pour chelemisant à trèfles, ou 3!h ou 4!d pour
+         chelemisant à carreaux.
+      3H Quelque chose comme 4315. De même, l'ouvreur donne sa couleur de préférence
+         ou 3NT si pas intéressé
+      3S 6!c 5!s
+      3N 4225 non forcing
+      3C 6 trèfles, demande à l'ouvreur de nommer les contrôles.
+      4N 4225 invite
+      5N 4225 invite pour 7
+
+*** L'ouvreur ne dit pas 1NT
+
+    L'ouvreur peut encore avoir 18-19 points, donc il n'est pas obligé de rectifier
+    les transfert de 2!c ou de 2NT s'il a peur que le partenaire passe.
+
+    1C-1H-1S
+      1N 6-10
+      2C Invite ou 12-14 (15) avec 5 coeurs. Ici l'ouvreur n'a pas peur que le partenaire
+         passe la réponse de 2!d. En effet, il a promis plus de coeurs que de carreaux.
+      2D Relais FM
+      2H 6-9 (10) avec 6 cartes
+      2S 6-9 (10) avec 4 cartes
+      2NT 5+!c, plus de trèfles que de coeurs, faible ou TDC
+      3C TDC 5!h 5!c (Il faut 5 trèfles car l'ouvreur n'en a promis que 3)
+      3D TDC 5!h 5!d
+      3S TDC 4 cartes
+      3N 12-14 (15) sans 5 coeurs
+
+
+    1C-1H-1S-2C-2D
+      2H Invite 5 cartes
+      2S Invite 4 cartes
+      2N Invite sans 5!h ni 4!s
+      3C Invite avec 5 trèfles et 4 coeurs
+      3D Invite 5-5
+      3H Invite 6 cartes
+      3S Invite 4 piques et 5 coeurs
+      3N 12-14 (15) avec 5!h
+
+
+    1C-1H-1S-2D
+      2H 3 cartes
+      2S 6!c 5!s
+      2N 4!s 5!c 15-17 sans 3 coeurs
+      3C  4!s 5!c 12-14 sans 3 coeurs
+      3D 4045
+      3H TDC 3 cartes
+      3S TDC 6!c 5!s
+      3N 4234 12-14
+
+    1C-1H-1S-2N
+
+    Ici l'ouvreur peut en pas passer s'il est 18-19. Surtout que si c'est le cas, il est irrégulier
+    et il y a donc au moins un fit 10e à trèfle. La 4e couleur demande l'arrêt.
+
+    1D-1H-1S-2C
+
+    De nouveau si l'ouvreur est 18-19 il peut ne pas rectifier le transfert pour ne pas jouer 2!d lorsque 3NT gagne.
+
+
+** Séquences fittées sur 1!h et 1!s
+
+*** 2NT - Invite et mieux avec 3 cartes
+
+    Sur une ouverture de 1!h ou de 1!s, 2NT indique une main invite+ avec 3 carte dans la couleur du partenaire.
+    Les réponses ne changent pas peu importe la majeure d'ouverure.
+
+    1HS-2NT
+      3C 12-14 avec une courte.
+        3D Relais, et CPP
+        3HS Seulement une main invite, choisi ton contrat.
+      3D 12-14 sans courte
+        3HS Seulement une main invite, choisi ton contrat.
+      3H 15-17 avec ou sans courte
+        3S Relais. 3NT sans courte, ou alors CPP
+      3S 18+ avec une courte
+        3N Relais, et CPP
+      3N 18+ sans courte
+      4CDH 5-5 première zône avec les honneurs dans les longues
+
+
+*** 3!c - FM avec 4 cartes
+
+    3!c Indique des mains FM avec 4 cartes dans la couleur du partenaire.
+    Les réponses ne changent pas peu importe la majeure du partenaire
+
+    1HS-3C
+      3D 12-14 avec ou sans courte
+        3H Relais. 3NT sans courte ou alors courte par palier
+      3H 15-17 avec ou sans courte. 3!s est relais comme sur 1!h!s - 2NT
+      3S 18+ avec une courte.       3NT est relais comme sur 1!h!s - 2NT
+      3N 18+ sans courte
+      4CDH 5-5 première zône avec les honneurs dans les longues
+
+*** 3!d - Invite avec 4 cartes
+
+    3!d indique des mains invites avec 4 cartes dans la majeure.
+    L'ouvreur conclut, propose 3NT, ou nomme un contrôle.
+
+*** 3M et 4M - Barrages
+
+    Le soutient à saut est barrage, avec 0-5 points et 4 atouts. De même, 4M est barrage avec 5 atouts
+
+  *** Fit différé
+
+    Le fit différé montre toujours une main chelemisante avec une belle couleur.
+    Avec une main sans belle couleur on dit 2NT ou 3!c
+
+*** Splinter
+
+    Le splinter montre une main tout juste forcing manche, avec 12-14 points et 4 atouts.
+    3NT est splinter dans l'autre majeure.
+
+*** Splinter différé
+
+    1HS-2X-2HS
+
+    Dans cette séquence, les doubles sauts dans des nouvelles couleurs sont splinters plus fort qu'un splinter direct.
+    Le répondant a donc 15+ points avec une courte, une belle couleur et (3) 4+ atouts
+
+
+** Enchères d'esssais par les longues
+
+    Après les séquences 1HS - 2HS ou 1X - 1HS - 2HS, on fait les enchères d'essais dans les longues.
+    Une nouvelle couleur montre 4 cartes avec des honneurs, et demande au partenaire de valoriser ses honneurs dans cette couleur.
+    2NT est enchère d'essais généralisée.
+
+** Fit Mineur inversé
+
+    Le fit dans la mineure d’ouverture avec des mains fortes n’est pas facile à décrire dans le
+    système naturel - le fit à saut à la deuxième enchère du répondant dans la première couleur
+    étant souvent des mains limites ; la recherche d’un chelem mineur ou l’appréciation de la
+    meilleure manche entre 3SA et 5m en est dès lors fort périlleuse. Par ailleurs, le fit au niveau
+    de 2 avec des mains 6-10 sans majeures quatrièmes est fréquemment fait avec des mains
+    faibles et irrégulière qui bénéficierait d’un effet barrage en étant décrite directement au niveau de 3
+
+    C’est pourquoi le soutien direct au niveau de 2 promet 10H+ et 5 cartes (4 belles à carreau). Il
+    n’est pas forcing manche. Il dénie 4 cartes en majeur. On cherchera le meilleur contrat : en
+    mineur, recherche de 3SA ou recherche de chelem en mineur. Le soutien direct au niveau de 3
+    promet une main tendance barrage c’est-à-dire de 6-9PH irrégulière et sans majeure 4eme.
+
+    1C
+      2C 5+ cartes, 10+ points, dénie une majeure 4e, forcing
+        2DHS 14+, arrêt dans la couleur, forcing jusque 3NT.
+             Dénie l'arrêt dans les couleurs passées.
+        2N 12-13, plutôt avec des honneur à défendre
+          3C SO
+          3DHS Arrêt dans la couleur
+          3N SO
+          4C Chelemisant, demande des contrôles.
+          4DHS Splinter. 4NT de l'ouvreur est pour jouer.
+        3C 12-13, plutôt sans honneurs à défendre
+          3DHS Arrêt dans la couleur
+          3N SO
+          4C Chelemisant, demande des contrôles.
+          4DHS Splinter. 4NT de l'ouvreur est pour jouer.
+        3DHS 14+, singleton, FM. On est d'accord de jouer 5!c s'il le faut,
+             donc à priori on a au moins 4 beaux trèfles.
+        3N 18-19 régulier
+        4DHS chicane, beaux trèfles. De nouveau, on est d'accord de jouer
+             5!c en face d'un partenaire minimum. 4NT du partenaire est blackwood.
+
+    Les développements sur 1!d sont les mêmes.
+
+** Blackwood 41-30
+
+    Lorsqu'un fit a été clairement défini, l'enchère de 4NT est Blackwood et demande au partenaire le nombre de clés qu'il détient.
+    Cette enchère indique la volonté de jouer un chelem s'il ne manque pas deux clés.
+    Si on n'est pas certain on va préféré un contrôle.
+
+    Les clés sont le roi d'atout et les 4 as.
+    Les réponses sont comme ceci:
+
+    4N
+      5C 1 ou 4 clés
+      5D 0 ou 3 clés
+      5H 2 clés et la dame d'atout
+      5S 2 clés sans la dame d'atout
+      5N 2 ou 4 clés avec une chicane utile
+      6X 1 ou 3 clés avec la chicane de la couleur
+
+    Les enchères qui montrent une chicane ne sont en générale pas utilisée si l'on a déjà pu montrer sa courte.
+    En effet, si le partenaire pose le blackwood c'est à priori qu'il n'est pas intéressé par la chicane potentielle,
+    autrement dit il a certainement l'as de la couleur. S'il est intéressé par la chicane il peut continuer les contrôles.
+
+** Contrôle de la couleur du partenaire
+
+    Si le partenaire a montré une couleur longue et que le fit dans lequel on veut jouer est dans une autre couleur,
+    nommé un contrôle dans la couleur du partenaire montre un gros honneur, qui peut n'être que la dame.
+    On ne nomme pas les courtes dans la couleur du partenaire au premier tour de contrôle.
+
+    Exemple:
+
+    1S-2H-3H
+      3S au moins Dx à pique
+      3N Non-serious
+      4CD Contrôle sans de gros honneur pique
+
+    Imaginons la séquence suivante: 1!s - 2!h - 3!h - 4!c - 4!d
+    Ici, 4!s montre une courte à pique avec une bonne ambition de chelem.
+
+** Checkback sur rebid à 2NT
+
+  Dans les séquences 1m 1HS 2NT, 3!c est checkback et 3!d indique une envie de jouer un chelem dans la mineure de l'ouvreur.
+
+  1C-1H-2NT
+    3C Checkback, FM, demande 3!h, 4!s, ou 5!c. L'ouvreur se décrit
+       de la manière la plus économique.
+      3D 5!c
+        3H 5 cartes. L'ouvreur dit 3!s avec 4 cartes, 3N pour jouer,
+           4!c!d avec une belle main et 3 coeurs et 4!c avec
+           une mauvaise main et 3 coeurs.
+        3S 4 cartes. L'ouvreur dit 3NT pour jouer, 4!c!d!h avec
+           une belle main et 4 piques et 4!c avec une mauvaise main
+           et 4 piques.
+        3N SO
+        4C Chelemisant
+        4D Chelemisant à carreaux (probablement 6!d-4HS)
+      3H 3 cartes sans 5!c. De nouveau, 3!s montre 4 cartes, et
+         l'ouvreur répond de manière naturelle.
+      3S 4 cartes sans 5!c et sans 3!h. Le répondant conclut ou
+         nomme un contrôle.
+      3N Rien de tout cela.
+    3D TDC à trèfle. L'ouvreur nomme un contrôle ou 3NT si pas intéressé.
+    3H NF
+    3S Bicolore 6!h 5!s FM.
+      3NT Mauvaise main
+      4CD Contrôle chelemisant à pique
+      4H Chelemisant à coeurs
+    3N SO
+    4CD Contrôle, atout coeurs
+    4H Pour jouer.
+
+
+  1D-1S-2NT
+    3C Checkback
+    3D TDC à carreau
+    3H Bicolore 5-5 FM.
+      3S Positif à pique
+      3N Mauvaise main
+      4CD Contrôle fitté coeur
+    3S NF
+    3N SO
+    4CD Contrôle, atout piques
+    4H Bicolore 6-5 sans ambitions de chelem.
+    4S Pour jouer
+
+  Dans la séquence 1!c-1!d-2NT, 3!c demande les majeures 4e ou 5 cartes à trèfles, 3!d est chelemisant à carreaux, 3!h!s est 6-5 FM
+
+
+
+  1C-1D-2NT
+    3C Checkback FM
+      3D 5!c
+        3HS 4 cartes, comme plus haut
+        3N SO
+        4C Chelemisant
+        4D Chelemisant à carreaux, probablement avec 6!d 4M
+      3H 4 cartes, peut avoir 4!s
+      3S 4 cartes sans 4!h
+      3N Rien de tout ça.
+    3D Chelemisant à carreaux
+    3HS 6-5 FM. 4!d est positif à carreaux, 3NT est négatif,
+        le reste est contrôle fitté dans la majeure
+    3N SO
+    4C 6-5 FM
+    4HS Splinter, chelemisant carreaux
+        4N Pour les jouer
+
+** 3e Forcing
+
+    Si l'ouvreur répète sa couleur au niveau de 2, une nouvelle couleur
+    du répondant est semi-naturelle. Cela montre une force dans la couleur,
+    et demande à l'ouvreur s'il a un arrêt dans la dernière couleur,
+    s'il a 3 cartes dans la couleur du répondant, ou 4 cartes dans la nouvelle couleur.
+
+    Exemple:
+
+    1D-1S-2D
+      2H 3e couleur forcing, arrêt pique. L'ouvreur répond
+         de manière économique.
+        2S 3 cartes
+        2N Arrêt trèfle, maximum. 3!c est relais.
+        3C Bel arrêt trèfle, pour jouer 3NT de la bonne main
+        3D Pas d'arrêt trèfle, pas 3 coeurs, pas 4 piques.
+        3H 4 cartes
+        3N Arrêt trèfle, minimum
+      2S Faible, pour les jouer
+      2N Invite pour 3NT
+      3C 3e couleur
+        3D Pas d'arrêt coeur, pas 3 piques
+        3H Bel arrêt coeur, pour jouer 3NT de la bonne main
+        3S 3 cartes
+        3N Arrêt coeur sans 3 piques
+      3D Invite pour 3NT
+      3H 5-5 FM
+      3S 6 mauvaise cartes
+      3N Pour les jouer
+
+** 1!s-1NT-2!c
+
+    Dans cette séquence, il est impossible de faire la distinction entre des mains (5) 6-7 ou 8-10 avec des coeurs.
+    Comme le fit majeure est plus important que le fit mineur lorsque les deux mains sont limitées,
+    nous allons convenir que 2!d montre une main 8-10 avec 5+ coeurs, et 2!h une main très faible.
+
+
+* Système
+
+** 1!c - 2+ cartes
+
+    Note: Si les trèfles sont courts, c'est que l'on a les majeures: En effet on n'a que deux trèfles avec un 4432.
+    Si l'on dénie une majeure 4e c'est que l'on a au moins 3 trèfles, si l'on dénie les deux, c'est que l'on a au moins quatre trèfles (3334).
+    En réponse, on annonce ces couleurs par palier. Avec 4!h et 4!d on dit 1!d.
+    Les sauts sont forts, avec au moins 6 belles cartes en majeure et 5 belles à carreaux.
+    2NT est invite pour 3NT avec (10) 11 points.
+    2!c est fort et 3!c est barrage.
+    3NT est pour jouer, avec 12-14 points.
+    Le reste est barrage.
+
+    1C
+      1D 4+ cartes 6+ points, ou 6-7 régulier sans majeure 4e.
+         Le rebid de 1NT indique la main 6-5 régulière.
+        1HS 4+ cartes, 12-19. 1!s est naturel, 1NT est 6-7 régulier.
+            Pour le reste, voir Double-Deux.
+        1N 12-14 sans majeure 4e (donc au moins 4 trèfles).
+           Voir Double-Deux.
+        2C 12-14, 6+ cartes
+          2D Faible avec des carreaux et pas de support trèfle
+          2HS Voir 3e Forcing
+          2N Invite pour 3NT
+          3C Invite pour 3NT
+          3D FM avec de mauvais carreaux
+        2D 12-14, 5+!c 4+!d
+          2HS Arrêt, recherche de 3NT
+        2HS 4+ cartes, 18+, FM sauf si le répondant dit 2NT.
+            Voir 2NT modérateur.
+        2N 18-19 régulier. Voir Checkback sur 2NT.
+        3C 15-17, 6+ cartes
+        3D 15-17, 5+!c, 4+!d
+      1HS 4+ cartes 6+ points, forcing
+        1S 4+ cartes, 12-19. 1NT est 6-10. Pour le reste, voir Double-Deux.
+        1N 12-14 régulier. Voir Double-Deux.
+        2C 12-14, 5+ cartes. Voir 3e forcing.
+        2DH (17) 18+, FM sauf si le répondant dit 2NT ou 2HS.
+            Voir 2NT modérateur.
+        2HS 12-14, 4 cartes
+        2S 18+, FM sauf si le répondant dit 2NT
+        2NT 18-19 régulier sans 4HS. Voir Checkback sur 2NT.
+        3C 15-17, (5) 6+ cartes
+        3DH 6-5 12-14 concentré
+        3HS 15-17, 4 cartes
+        3S Splinter
+        3N 18-19 régulier avec fit de 4 cartes
+        4C fitté avec 5!c, 18+
+        4DH Splinter
+        4HS Fitté très distribué, 12-14
+      1N 8-10 points régulier sans majeure 4e
+        2C SO
+        2D Bicolore cher, 16+
+        2HS Force, 16+
+        2NT Invite pour 3NT
+        3C 6+ cartes, chelemisant
+        3DHS 6-5, chelemisant
+      2C 10+ points, 5+ cartes, pas de majeure 4e. Voir mineure inversée
+      2D 16+ points, 5+ belles cartes, FM. Le rebid des carreaux
+         par le répondant force l'atout et est chelemisant.
+         Les réponses sont naturelles.
+      2HS 16+ points, 6+ belles cartes, FM. Le rebid de la couleur
+          par le répondant force l'atout et est chelemisant.
+          Les réponses sont naturelles.
+      2N 10-11 points régulier sans majeure 4e. Invite pour 3NT
+        3X Chelemisant
+      3C Barrage avec (5) 6 cartes, 6-9 points
+      3DHS Barrage
+      3N 12-14 régulier sans majeure 4e
+
+** 1!d - 4+ cartes
+
+    1D
+      1HS 4+ cartes, forcing, 6+ points
+        1S 4+ cartes, 12-19. 1NT est 6-10. Pour le reste, voir Double-Deux.
+        1NT 12-14 régulier. Voir Double-Deux
+        2C 5!d 4!c, 12-17. Avec une main pas minimum on va avoir
+           tendance à reparler pour laisser la chance à l'ouvreur
+           de faire un effort avec une main forte.
+        2D 6+ cartes sur 1!h, 5+ cartes sur 1!s. 12-14.
+        2HS 12-14, 4 cartes
+        2SH 18+ naturel, FM sauf si l'ouvreur dit 2NT ou 2!s.
+            Voir 2NT modérateur.
+        2N 18-19 régulier sans 4HS. Voir Checkback après 2NT.
+        3C 18+, (3) 4+ cartes. Si l'ouvreur répète ses carreaux,
+           il n'a probablement que trois trèfles.
+        3D 15-17, (5) 6+ cartes
+        3HS 15-17, 4 cartes
+        3H 6!d 5!h, 12-14 avec les honneur concentrés.
+        3S Splinter
+        3N 18-19 régulier avec 4M
+        4C Splinter
+        4D 5!d 4HS 18+
+        4HS Faible distribué
+        4H  Splinter
+      1N 6-10 points sans majeure 4e
+        2C 5-4, 12-17
+        2D SO
+        2HS Force, 16+
+        2N Invite pour 3NT
+        3C 18+, (3) 4+ cartes
+        3D 6+ carreaux, chelemisant
+        3HS 6-5, chelemisant
+        3N Pour les jouer
+      2C 11+, 4+ cartes
+        2D 12-13 régulier ou 12-15 irrégulier
+        2HS 16+, 4 cartes
+        2NT régulier, 14 ou 18-19, FM.
+          3C relais
+            3D 18-19
+            3HS 14 points, 4 cartes
+            3N 14 points, sans majeure 4e
+        3C 16+, 4+ cartes
+        3D 16+, 6+ cartes avec un problème d'arrêt majeure
+           ou une envie de chelem
+        3HS 12-14, 6-5
+        3N 16+, 6+!d avec les deux arrêts majeurs.
+      2D 10+, 4+ cartes. Voir mineure inversée.
+      2HS 16+ points, 6+ belles cartes, FM. Le rebid de la couleur
+          par le répondant force l'atout et est chelemisant.
+          Les réponses sont naturelles.
+      2N 10-11 points régulier sans majeure 4e. Invite pour 3NT.
+        3X Chelemisant
+      3C 8-10 avec une belle couleur 6e, invite pour 3NT.
+         Plus faible que 1!d-2!c-2!d-3!c.
+      3D 6-9, barrage
+      3HS Barrage
+      3N 12-14 régulier sans majeure 4e.
+
+** 1!h et 1!s - 5+ cartes
+
+  1H
+    1S 4+ cartes, 6+ points, forcing
+      1N 12-14 régulier. Voir Double-Deux.
+      2CD 12-17, 5-4
+      2H 12-14, 6 cartes
+      2S 12-14, 4 cartes
+      2N 18-19, 5332
+        3CD Naturel FM
+        3H Chelemisant
+        3S SO
+        3N SO
+        4CD Contrôle fitté piques
+        4HS Pour jouer
+    1N 6-10 points sans 4 piques
+      2CD 12-17, 5-4
+      2H 12-14, 6+ cartes
+      2S 18+, FM sauf si le répondant dit 2NT
+      2N FM 6!c-4m ou 6+ coeurs ou 5!h-5m
+        3C Relais. L'autre majeure indique le 6!h 4!c
+          3D 6!h 4!d
+          3H 6+!h
+          3S 6!h 4!c
+          4CD 5-5
+      3CD 18+, FM, exactement 5-4
+      3H 15-17, 6+ cartes
+      3S 6-5 ,14-17, NF
+      3N Pour les jouer
+      4CD 6-5, 14-17, NF
+      4H Barrage
+    2CD 11+, 4+ cartes
+      2D 12+, 4+ cartes
+      2H 12-14 régulier OU 12-15 avec 4!s ou 4m OU 12-14 avec 6!h
+      2S 16+, 4+ cartes
+      2N 15-17 régulier
+      3CD 16+, 4+ cartes
+      3D Beau 5-5, 15+ points
+      3H 15-17 avec 6 cartes
+      3S 14-17, 6-5
+      3N 18-19 régulier
+    2H 6-10, avec 3 ou 4 cartes. Voir enchères d'essais dans les longues
+    2S 16+ avec 6+ belles cartes, FM. Le rebid de la couleur
+       par le répondant force l'atout et est chelemisant.
+       Les réponses sont naturelles.
+    2N 11+ points avec 3!h. Voir séquences fittées sur 1M
+    3C FM avec 4+!h. Voir séquences fittées sur 1M
+    3D 10-11 points avec 4!h. Voir séquences fittées sur 1M
+    3H Barrage
+    3S Barrage
+    3NT Splinter pique
+    4CD Splinter
+    4H Barrage
+
+
+  1S
+    1N 6-10
+      2CDH 12-17, 5-4
+      2S 12-14, 6+ cartes
+      2NT FM 6!s-4m ou 6+ piques ou 5!s-5m
+        3C Relais. L'autre majeure indique le 6!s 4!c
+          3D 6!s 4!d
+          3H 6!s 4!c
+          3S 6+!s 18+
+          3CD 5-5
+      3X FM, exactement 5-4
+      3S 15-17 avec 6+ cartes
+      3N Pour jouer
+      4CDH 6-5, 14-17, NF
+      4S Barrage
+    2CD 11+, 4+ cartes
+      2DH 12+ avec 4+ cartes
+      2S 12-14 régulier OU 12-14 avec 6 piques OU 12-15 avec
+         4 cartes de la couleur du partenaire OU 12-15 avec 4!c sur 2!d.
+      2N 15-17 régulier
+      3CD 16+ avec 4+ cartes
+      3C 16+ avec 4+ cartes
+      3DH Beau 5-5, 15+ points
+      3S 15-17 avec 6 cartes
+      3N 18-19 régulier
+    2H 11+, 5+ cartes
+      2S 12-14 régulier OU 12-14 régulier avec 6!s
+         OU 12-15 avec 4!c ou 4!d OU 12-15 avec 3+!h
+      2N 15-17 régulier
+      3CD 16+ avec 4+ cartes
+      3H 16+ avec 3+ coeurs
+      3S 15-17 avec 6 cartes
+      3N 18-19 régulier
+      4CD Splinter
+      4H 5-5 12-14
+    2S 6-10, 3 ou 4 cartes. Voir enchères d'essais dans les longues.
+    2N 11+ avec 3!s. Voir séquences fittées sur 1M
+    3C FM avec 4+!s. Voir séquences fittées sur 1M
+    3D 10-11 points avec 4!s. Voir séquences fittées sur 1M
+    3H 8-10, 6+ cartes, invite pour 4!h ou 3NT
+    3S Barrage
+    3NT Splinter coeur
+    4CD Splinter
+    4H Barrage
+    4S Barrage
+
+
+** 1NT - 15-17 régulier
+
+  1N
+    2C Stayman 3 palier. Peut être faible
+      2D Pas de majeure 4e
+        2H Bicolore majeur faible
+        2S Demande de mineure 5e
+        2N Invite pour 3NT
+        3CD FM, 5+ cartes
+        3HS Smolen
+      2H 4 cartes, peut avoir 4!s
+        2S Relais, demande de mineur 5e ou de 4!s
+        2N Invite pour 3NT
+        3CD FM, 5+ cartes
+        3H Invite pour 4!h
+        3S Contrôle fitté !h
+        3N Pour jouer
+        4CD Contrôle fitté !h
+      2S 4 cartes sans 4!h
+        2N Invite pour 3NT
+        3CD FM, 5+ cartes
+        3H Contrôle fitté !s
+        3S Invite pour 3!s
+        3N Pour jouer
+        4CD Contrôle fitté !s
+    2D Texas !h ou 5!h 4!s 8-9 si suivi de 2!s
+    2H Texas !s ou 5!s 5!h TDC si suivi de 3!h
+    2S Unicolore faible en mineur ou invite à trèfles
+      2N Positif à trèfles
+        3CD Faible
+        3N Pour les jouer
+      3C Négatif à trèfles
+        P  Des trèfles
+        3D Faible à carreaux
+    2N Invite pour 3NT
+    3X Unicolore FM en transfer
+    3N Pour jouer
+    4C Bicolore mineur chelemisant
+    4D Bicolore majeur sans ambitions de chelem
+    4HS Pour jouer
+    4N Quantitatif
+
+** 2!c - Faible à carreau ou fort
+
+  Définition:
+
+    - Faible en !d (Constructif vul et en 1e et 2e NV) et 11-13 en 4e
+    - 22+ BAL
+    - Gambling solide sauf en !d
+    - FM sauf bicolore majeur
+
+  Les mains fortes sont fortes en points. Avec une main FM grâce à sa distribution, on ouvre au niveau de 1.
+
+  2C
+    2D Pour jouer 2!d en face d'une main faible
+      P Faible à carreaux
+      2H  24+ régulier OU bicolore FM avec au moins 4!h
+          OU Unicolore régulier 22-25
+      2S Bicolore FM avec au moins 4!s OU Unicolore régulier 22-25
+      2N 22-24 régulier. Réponses comme sur 2NT d'ouverture
+      3CD Unicolore ou bicolore mineur. La collante de la part
+          de l'ouvreur n'est pas forcément naturelle.
+      3HS Unicolore irrégulier.
+      3N Unicolore trèfle régulier 22-25
+      4CD 6m-5!h
+      4HS 6m-5!s, mineur par palier
+    2N Relais fort, espoir de manche en face d'un faible à carreaux
+
+
+  2C-2D-2H
+    2S Relais
+      2N 24+ régulier. Réponses comme sur 2NT d'ouverture
+      3C 5+!c 4=!h
+      3D 5+!d 4=!h
+      3H 5+!h 4+!c
+      3S 5+!h 4+!d
+      3N Unicolore régulier 22-25
+      4CD 6!h 5m moins fort que 3HS suivi de 4m
+
+  2C-2D-2S
+    2N Relais
+      3C 5+!c 4=!s
+      3D 5+!d 4=!s
+      3H 5+!s 4+!c
+      3S 5+!s 4+!d
+      3N Unicolore régulier 22-25
+      4CD 6!s 5m moins fort que 3HS suivi de 4m
+
+
+  2C-2N
+    3C Faible avec une courte
+      3D NF, courte par palier si max
+      3H Demande de courte, par palier
+    3D Minimum sans courte
+    3H Max, pièce !c ou !h sans courte. 3!s relais par palier
+    3S Max, pièce !s
+    3N Carreaux de ARD ou ARV10
+    Autre FM
+
+** 2!d - FI ou bicolore majeur
+
+  Définition:
+
+    - FI Unicolore
+    - Bicolore majeur FI ou FM
+    - Gambling carreau
+
+  Bicolore majeur plus long à !s:
+
+  2D-2H-2S
+    2N Relais
+      3H 5-5 majeur FI
+      3S 6-4 majeur FI
+      3N 5422 FM
+      4CD 5440
+      4H 6-5
+      4S 7-4
+      3D 5431
+      3C FM ambigu
+        3D Relais
+          3H 5-5 FM
+          3S 6-4 FM
+          3N 5413
+
+  Bicolore majeur plus long à !h:
+
+  2D-2H-2N
+    3C Relais
+      3H 6-4 majeur FM
+      3S 6-5 FM
+      3N 4522
+      4CD 4540
+      4H 7-4
+      3D Résidu mineur
+        3H Relais
+          3S 4513
+          3N 4531
+          4C 4603
+          4D 4630
+
+  Autre:
+
+  2D-2H
+    3X Unicolore FI
+    3N Gambling carreau
