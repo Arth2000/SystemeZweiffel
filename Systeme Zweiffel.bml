@@ -320,6 +320,11 @@
     Les enchères qui montrent une chicane ne sont en général pas utilisées si l'on a déjà pu montrer sa courte.
     En effet, si le partenaire pose le blackwood c'est a priori qu'il n'est pas intéressé par la chicane potentielle,
     autrement dit il a certainement l'as de la couleur. S'il est intéressé par la chicane, il peut continuer les contrôles.
+    Ensuite, sur la réponse de 5m, le palier immédiatement supérieur en dehors de l’atout est un relais pour la Dame d’atout et les Rois spécifiques. Avec la Dame d’atout, on nomme économiquement la couleur du premier Roi ou 5SA déniant un Roi. Le retour à l’atout, dénie la Dame d’atout et puis le palier au-dessus demande de nommer les Rois dans un ordre économique.
+    Une autre enchère non-ambiguë explore pour le grand chelem, demandant un complément.
+    
+    BW d’exclusion par un double saut anormal avec fit précisé !
+
 
 ** Contrôle de la couleur du partenaire
 
@@ -918,3 +923,49 @@
     5CD Pass ou corrige
     6C Pass ou corrige
     6D Pour jouer
+
+** Jeu de la carte
+
+   Entame à SA : 4e meilleure, (top of nothing si 3 petites, sinon celle du milieu)
+      sauf dans la couleur nommée du partenaire : pair-impair. Après l'entame, si le mort est maitre ou court,
+      attitude (par des petites) ou plus haut des honneurs équivalents.
+   Entame à la couleur : Parité
+   
+   Tête de séquence en couleur. L’As ou la Dame demande un appel par une petite, le Roi demande la parité.
+   Défausse italienne : une carte impaire appelle la couleur (en théorie, plus l'impaire est petite, plus l'appel est violent);
+   une carte paire appelle en Lavinthal.
+   
+   Confirmation d’entame à la couleur et SA
+      Souvent, lors de la première levée, les cartes fournies par la défense sont des cartes forcées ou indicatrice du compte. 
+      Ceci rend difficile l’évaluation par la défense du réel potentiel de la couleur d’entame et s’il faut continuer à essayer 
+      de l’affranchir. Pour cela, la carte fournie à la première occasion par la défense indiquera la force du joueur dans 
+      la couleur de l’entame (une petite appelle). Attention toutefois à ne pas confirmer l’entame et indiquer le pair 
+      impair en cas de problème de blocage manifeste du mort (par exemple : couleur longue à affranchir et pas de remontée extérieure)
+
+* Intervention sur 1SA Fort d’ouverture (14+)
+
+  - X = Punitif
+      Ensuite : Passe accepte, 2M sauvetage 5+M, 2m sauvetage avec 4+m (2!c
+      peut cacher une main faible avec 4M333 / 44M23 faible, 2!d peut cacher un
+      44M32), 3x NAT Inv,
+      Sur repli du n°3 à 2X, un X est punitif et à 3X, X d’appel. Si on passe sur 2X, un
+      re-X est d’appel.
+      Sur XX, passe accepte de jouer : un X ensuite est punitif.
+      Sur Passe et sauvetage de l’ouvreur, un X est punitif.
+  - 2!c = Landy. Ensuite, 2!d demande un choix, 2M NAT NF, 2SA relais (3!c 44 fort, 3!d
+      préfère !h, 3!h préfère !s, 4m 55 Court m), 3m NAT F1, 3M INV) 
+  - 2!d = Unicolore M. 2M/3M/4!h POC, 3!c NF, 3!d F1, 4!s clôture, 2SA Relais (Maxi !h/!s, mini
+    !h/!s) puis 3!s/4!h clôture).
+    Si X : passe = !d, XX demande la M, 2M pour jouer (!), reste idem.
+  - 2M = 5M4+m. (2SA demande la m, reste NAT NF).
+  - 2SA = Bic m ou Bic FM indéterminé (3m préférence, 3M NAT F1 sauf si X sur 2SA)
+   - 3♣ = NAT
+   - 3x = PRE
+  - 3SA = BIC m très distribué
+
+* Bicolores en intervention: Michaels non précisés
+
+    La beauté des couleurs peut dépendre de la vulnérabilité relative des deux camps, mais rouge, toujours des belles couleurs.
+    1M - 2M : 5M'/5m
+    1x-2x : 5!s/5y
+    1x - 2SA :  5/5 des couleurs les plus basses
