@@ -312,8 +312,8 @@
     4N
       5C 1 ou 4 clés
       5D 0 ou 3 clés
-      5H 2 clés et la dame d'atout
-      5S 2 clés sans la dame d'atout
+      5H 2 clés sans la dame d'atout
+      5S 2 clés avec la dame d'atout
       5N 2 ou 4 clés avec une chicane utile
       6X 1 ou 3 clés avec la chicane de la couleur
 
