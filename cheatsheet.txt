@@ -1,0 +1,29 @@
+Navigation
+
+    Pour avancer dans les dossier: cd Directory/DirectorySuivant/... 
+    Pour retourner sur la home: cd
+    Pour reculer de dossier: cd ..
+    Pour voir la liste des fichiers dans le dossier: ls
+
+Pour ouvrir un fichier/dossier sur visual studio code
+
+    code filename
+    code . (pour un dossier)
+
+    ou ouvrir visual studio et aller dan file open file/folder
+
+Github
+
+    Cloner un repo: git clone (suivi de la string fournie par github quand tu vas sur le repo et que tu cliques sur cloner)
+    Ajouter un fichier: git add filename
+    Supprimer un fichier: git rm filename
+    Pour commit: git commit -m "message de commit"
+    Pour push tes modifications: git push
+    Pour pull les modifications des autres git pull:
+
+    Ordre Logique:
+
+        git add .  (ajoute tous les fichiers modifiés mais n'ajoutera pas ceux que tu viens de créer, utiliser git add filename pour ca)
+        git commit -m "ton message de commit"
+        git push (si il refuse git pull avant et résoudre les éventuels conflicts)
+
