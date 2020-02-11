@@ -240,43 +240,39 @@
     Le répondant a donc 15+ points avec une courte, une belle couleur et (3) 4+ atouts
 
 *** Drury et séquences avec un partenaire passé.
+
     Si le partenaire a déjà passé, alors les enchères fittées changent:
     2!c est drury, les enchères à saut sont rencontre,
-    et 2NT indique un fit 4e avec une courte autre que trèfle. La courte trèfle passe par 2C suivi de 2NT.
-    P - 1H
+    et 2NT indique un fit 4e avec une courte autre que trèfle.
+    La courte trèfle passe par 2C suivi de 2NT.
+
+    1H
       2H 6-7 points, 3+ cartes
       3H Barrage
       4H Barrage
-      2C 8-11 points, 3+ cartes, invite
+      2C 8-11 points, 3+!h, invite
       2S Rencontre
       3CD Rencontre
-      2N 4!h et une courte autre que trèfle, 10-11 points
+      2N 4!h et une courte autre que trèfle, 10-11 points.
+        3C Relais et courte par palier.
       3S 10-11 points et chicane.
       4m 10-11 points et chicane.
 
-    Sur P - 1!h - 2NT, on ne peut pas savoir exactement quelle est la courte.
-    On peut par contre sur P - 1!s - 2NT.
-    P - 1H - 2N
-      3C Relais et courte par palier
-        3D Courte !d
-        3H Courte !s
+    Après un Drury, on a le schéma général suivant:
 
-    P - 1S - 2N
-      3C Relais et courte par palier
-        3D Courte !d
-        3H Courte !h
+    1M-2C
+      2M Main sous l'ouverture
+      4M Pour jouer
+      2D Positif mais ne dit rien sur les carreaux.
+      2N 15-16 régulier
+      3N 17-19 régulier
+      3X Chelemisant naturel
+      4X Splinter
 
-    Après un Drury, 2M indique une main sous l'ouverture. 4M est pour jouer.
-    2D est positif mais ne dit rien sur les carreaux.
-    2NT est 15-16 régulier.
-    3NT est 17-19 régulier, propose de jouer 3NT plutôt que 4M.
-    3X est chelemisant, naturel.
-    Double saut est splinter.
-    4!h sur 1!s est 5-5 chelemisant.
+    Si le répondant dit 2NT, cela indique toujours la main 10-11 avec courte trèfle.
+    Les mains négatives se font par retour dans la majeure, puisque l'on promet un fit.
 
-    Si le répondant dit 2NT, ça indique toujours la main 10-11 avec courte trèfle.
-    Les mains négatives se font par revenir dans la majeure, puisque l'on promet un fit.
-    P - 1H - 2C
+    1H-2C
       2H Main sous l'ouverture. Le répondant passe sauf s'il a une bonne raison
           de croire que la manche est possible.
       2D Positif avec ou sans carreaux.
@@ -285,7 +281,7 @@
         3H 10-11
         Autre 10-11, naturel.
       2S Chelemisant avec des piques
-        2N est 10-11 avec courte trèfle.
+        2N 10-11 avec courte trèfle.
       2N 15-16 régulier
       3X Chelemisant naturel. Une enchère à coeur ou 3NT est décourageant.
       3S Chelemisant splinter !s
@@ -293,7 +289,7 @@
       4m Chelemisant splinter
       4H Pour jouer
 
-    P - 1S - 2C
+    1S-2C
       2S Main sous l'ouverture. Le répondant passe sauf s'il a une bonne raison
           de croire que la manche est possible.
       2D Positif avec ou sans carreaux.
@@ -524,9 +520,11 @@
 
 
 * Enchères Compétitives
+
   Les enchères entre parenthèses sont les enchères des adversaires.
 
 ** Principes généraux
+
   - Avec une main faible on veut monter haut très vite pour barrer, avec une main forte on veut construire
   - Les interventions sans saut sont plutôt constructive, avec une très belle couleur
       si on n'a pas 8-10 points corrects.
@@ -551,6 +549,7 @@
   - (1m) - 1NT: Système actif. (1M) - 1NT: Tout en transfert, le transfert impossible est stayman.
 
 ** Forcing ou non forcing en réponse à une intervention du partenaire
+
   - 1 sur 1: F1
   - 2 sur 1 sans saut: NF
   - Saut sur 1: Rencontre
@@ -560,6 +559,7 @@
   - 4 sur 2 avec saut: Rencontre FM
 
 ** Interventions sur 1X et continuations
+
   (1D)
     X Appel ou très fort. Avec des mains super fortes on contre puis on fait un cue-bid.
     1HS 5+ cartes, (6) 8+
@@ -590,7 +590,7 @@
     2N 5-5 mineur
     3X Barrage
 
-  (1H) - 1N
+  (1H)-1N
     2C Transfert !d
     2D 4 piques
     2H Transfert !p
@@ -599,12 +599,16 @@
 
 
 ** Micheals non-précisés
+
   La qualité des couleurs dépend de la distribution et de la vulnérabilité.
 
-  En 2e position:
-  (1M) - 2M: 5M' - 5m
-  (1m) - 2m: 5!s - 5X
-  (1X) - 2NT: Les deux plus basses
+  En 2e position
+
+  (1M)-2M 5M' - 5m
+
+  (1m)-2m 5!s - 5X
+
+  (1X)-2NT Les deux plus basses
 
   Après 2NT pour les deux mineures, 3m est pour jouer et 3M est invit+ dans la mineur par palier.
   (3!h pour les !c et 3!s pour les !d).
@@ -613,70 +617,94 @@
   le cue-bid de la couleur du répondant est naturel avec (5) 6 belles cartes et une main forte,
   et 2NT est bicolore moins fort et plus distribué que le cue-bid.
 
-  (1C) - (1H)
+  (1C)-(1H)
     2C 5+!s 5+!d
     2H (5) 6+ !h, belle couleur, belle main
     2N 5+!s 5+!d, distribué (Probablement 6-5 ou avec une chicane)
 
-  Si on a déjà passé, 1NT est bicolore.
+  Si l'on a déjà passé, 1NT est bicolore.
 
 ** Leaping Micheals
+
   Après une enchère faible des adversaires, les sauts montrent des bicolores 5-5 forts.
   Exemples:
-  (2M) - 4m: 5M' - 5m
-  (3m) - 4m: 5-5  majeur
-  (3M) - 4m: 5M' - 5m
-  (1M) - (2M) 4m: 5M' - 5m
-  (1m) - (2m) 4m: 5-5 majeur
+
+  (2M)
+    4m 5M' - 5m
+
+  (3m)
+    4m 5-5 majeur
+
+  (3M)
+    4m 5M' - 5m
+
+  (1M)-(2/3M)
+    4m 5M' - 5m
+
+  (1m)-(2/3m)-
+    4m 5-5 majeur
 
 ** Défense sur 2!d multi
+
   En 2e position:
+
   (2D)
     X 12-14/15 bal ou très fort
     2M Naturel
     2N 5-5 mineur
     3X Naturel
     4m Leaping Micheals avec les piques
-    P (15) 16-18 bal (dire 2NT) ou contre d'appel (dire X) ou leaping Micheals avec les coeurs (dire 4m)
+    P (15) 16-18 bal (dire 2NT)
+      OU contre d'appel (dire X)
+      OU leaping Micheals avec les coeurs (dire 4m)
 
   En 4e position:
-  Après 2!d - 2M, on réagit comme si l'ouvreur avait la couleur nommée par le répondant (de peur qu'il ne passe).
+  Après 2!d - 2M, on réagit comme si l'ouvreur avait la couleur nommée par le répondant
+  (de peur qu'il ne passe).
   En particulier les leaping Micheals s'inversent: Ils indiquent l'autre majeure.
-  (2D) - (2H)
+
+  (2D)-(2H)
     X Contre d'appel court coeur ou très fort
     2S Naturel
     2N (15) 16-18 bal, système actif
     3X Naturel
     3N 5-5 mineur
     4m Leaping Micheals avec les piques
-    P Contre d'appel court pique ou leaping Micheals avec les coeurs (dire 4m)
+    P Contre d'appel court pique
+      OU leaping Micheals avec les coeurs (dire 4m)
 
-  (2D) - (2S)
-    X Contre d'appel cour pique ou très fort
+  (2D)-(2S)
+    X Contre d'appel court pique ou très fort
     2N (15) 16-18 bal
     3X Naturel
     3N 5-5 mineur
     4m Leaping Micheals avec les coeurs
-    P Contre d'appel court coeurs ou leaping Micheals avec les piques (dire 4m)
+    P Contre d'appel court coeurs
+      OU leaping Micheals avec les piques (dire 4m)
 
 ** Défense sur 1!c fort (par Pitchounet)
+
   En 2e position
+
   (1C)
     X  5+!h
     1D 5+!s
     1HS 4+M 5+m
     1N 5-5 majeur ou 5-5 mineur
-    2X semi-tricolore court dans la couleur (5431, 4441, 5440, etc.) ou 6+ cartes
-    2N N'import quel bicolore 5M 5m (donc 4 bicolores possibles)
+    2X semi-tricolore court dans la couleur (5431, 4441, 5440, etc.)
+       OU 6+ cartes dans la couleur
+    2N N'importe quel bicolore 5M 5m (donc 4 bicolores possibles)
     3X 6+ cartes, plutôt constructif
 
   En 4e position
-  (1C) - (1D)
+
+  (1C)-(1D)
     X Les majeures
     1HS Naturel
     1N les mineures
 
 ** Défense sur 1NT
+
   L'ouvreur promet des points et un jeu régulier.
   Il faut donc avoir une bonne raison d'intervenir:
   Beaucoup de distribution ou des points en suffisance.
@@ -687,7 +715,6 @@
       P Pour jouer
       2m Sauvetage 4+m. Peut être 3 cartes avec des majeures 4e.
       2M Sauvetage 5+M
-
     2C Landy
       2D Demande la meilleur majeure
       2M NAT NF
@@ -726,18 +753,20 @@
     3N Bicolore mineur très distribué.
 
   En réveil, tout est naturel
-  (1N) - P - (P)
+
+  (1N)-P-(P)
     X Punitif
     2X Naturel, 12+
     2N 5-5 mineur ou bicolore FM indéterminé
     3X Belle couleur 7e, deux gros honneurs, pour jouer un 4M ou 3NT tendu
 
 ** 1!c - (1!d)
+
   Les mains avec une majeure s'annoncent naturellement.
   X désigne les mains avec les deux majeures ou les mains 8-10 sans l'arrêt.
   2D désigne les mains fortes, avec ou sans trèfles.
 
-  1C - (1D)
+  1C-(1D)
     X 8-10 bal sans l'arrêt ou les majeures. L'ouvreur nomme sa majeure s'il en a une.
     1HS 4+ cartes, forcing
     1N 8-10 avec arrêt
@@ -748,9 +777,10 @@
     3D Demande d'arrêt pour 3NT.
 
 ** 1m - (1!h)
+
   Le contre dénie les piques. 1!s montre 4 piques.
 
-  1C - (1H)
+  1C-(1H)
     X 8-10 semi-bal sans l'arrêt et sans 4 piques
     1S 4+ cartes, forcing
     1N 8-10 avec arrêt
@@ -762,9 +792,10 @@
     3H Demande d'arrêt pour 3NT.
 
 ** 1X - (1!s)
+
   X montre les coeurs. 1NT ne promet pas l'arrêt.
 
-  1C - (1S)
+  1C-(1S)
     X 7+ avec 4+ coeurs
     1N 8-10 semi-bal avec ou sans arrêt. Le cue-bid demande l'arrêt
       2S Demande d'arrêt, invit ou FM
@@ -778,19 +809,23 @@
     3S Demande d'arrêt pour 3NT
 
 ** 1X - (X)
-  1NT devient 8-10.
+
+  Dans cette séquence, 1NT devient 8-10.
   Avec 6-7 points et rien de particulier on passe.
   Les enchères au niveau de 2 avec sauts deviennent des 6 cartes faibles constructifs.
   XX indique 10+ points et deux couleurs dans lesquels on veut punir.
 
 ** 1X - (P) - 1Y - (1Z)
-  1NT est 12-14 avec l'arrêt, contre est d'appel
+
+  Dans cette séquence, 1NT est 12-14 avec l'arrêt, contre est d'appel
   (a priori avec un petit support pour le partenaire puisque l'on n'a pas de couleur à rallonger).
 
 ** 1X - (P) - 1Y - (X)
+
   XX indique l'envie de punir les adversaires, par 1YXX ou en contrant leur contrat.
 
 ** 1NT - (X)
+
   Après un X punitif des adversaires sur l'ouverture de 1NT du partenaire,
   Pass indique rien de particulier ou l'envie de jouer 1NTX.
   XX est transfert avec 5!c. 2X est transfert. 2S est 5!s 4m.
@@ -802,15 +837,17 @@
   Le répondant nomme alors ses couleurs 4e.
 
 ** 1NT - (2X)
+
   Après une intervention adverse sur 1NT, (ou sur (1X) - 1NT),
   les enchères au niveau de 2 sont naturelles et faibles;
   les enchères de 2NT jusque 3!h sont transferts sauf si transfert impossible. Alors stayman.
 
 ** (2M) - X - (P)
+
   Après un 2M faible des adversaires et un contre d'appel du partenaire,
   2!s est faible, 2NT force 3!c et montre une main faible ou FM, 3X est invite (8-10).
 
-  (2H) - X - (P)
+  (2H)-X-(P)
     2S Faible
     2N Force 3!c
       3C
